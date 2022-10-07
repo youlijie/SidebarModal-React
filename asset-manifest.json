@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/SidebarModal-React/static/css/main.d0c40c6f.css",
+    "main.js": "/SidebarModal-React/static/js/main.c679e393.js",
+    "static/media/logo.svg": "/SidebarModal-React/static/media/logo.f13078c14d1831c5548008363223e259.svg",
+    "index.html": "/SidebarModal-React/index.html",
+    "main.d0c40c6f.css.map": "/SidebarModal-React/static/css/main.d0c40c6f.css.map",
+    "main.c679e393.js.map": "/SidebarModal-React/static/js/main.c679e393.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0c40c6f.css",
+    "static/js/main.c679e393.js"
+  ]
+}
